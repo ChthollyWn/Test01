@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chenzhipeng:war" />
+      <artifact name="Chenzhipeng:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9f6e643-64ec-4882-8fbf-4150ef012ed4" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="290v8GKLpzYLGTlIbO5GnNwGxYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gouxin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.561">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Chenzhipeng" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Chenzhipeng" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.561" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.561" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Chenzhipeng:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Chenzhipeng_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="Chenzhipeng:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Chenzhipeng_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ac77f353-a119-4a3a-8ea1-3953868c9ea6" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61591" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chenzhipeng:war exploded" />
+          <artifact name="Chenzhipeng:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.561" />
+      <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b9f6e643-64ec-4882-8fbf-4150ef012ed4" name="默认变更列表" comment="" />
+      <created>1652262658351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652262658351</updated>
+      <workItem from="1652262659693" duration="149000" />
+      <workItem from="1652281630841" duration="4623000" />
+      <workItem from="1652365709447" duration="3311000" />
+      <workItem from="1652372278050" duration="2760000" />
+      <workItem from="1652415833921" duration="10811000" />
+      <workItem from="1652452445092" duration="5150000" />
+      <workItem from="1652497815535" duration="9898000" />
+      <workItem from="1652510160446" duration="950000" />
+      <workItem from="1652511167640" duration="4204000" />
+      <workItem from="1652534483044" duration="4583000" />
+      <workItem from="1652546684870" duration="268000" />
+      <workItem from="1652591688541" duration="11297000" />
+      <workItem from="1652699238898" duration="2564000" />
+      <workItem from="1652712374168" duration="5900000" />
+      <workItem from="1652775690592" duration="3625000" />
+      <workItem from="1652797115356" duration="31000" />
+      <workItem from="1652798771203" duration="100000" />
+      <workItem from="1652866194668" duration="592000" />
+      <workItem from="1654510480711" duration="373000" />
+      <workItem from="1654736863863" duration="140000" />
+      <workItem from="1654840566699" duration="171000" />
+      <workItem from="1654840883026" duration="246000" />
+      <workItem from="1654841280742" duration="645000" />
+      <workItem from="1654950158919" duration="44000" />
+      <workItem from="1655122978668" duration="85000" />
+      <workItem from="1655123106408" duration="37000" />
+      <workItem from="1655123279874" duration="220000" />
+      <workItem from="1655125577234" duration="28000" />
+      <workItem from="1655373214362" duration="6634000" />
+      <workItem from="1655440720270" duration="18000" />
+      <workItem from="1655478321515" duration="107000" />
+      <workItem from="1655478510735" duration="11000" />
+      <workItem from="1655479929339" duration="615000" />
+      <workItem from="1655520412947" duration="3529000" />
+      <workItem from="1655550317897" duration="1197000" />
+      <workItem from="1655559361092" duration="331000" />
+      <workItem from="1655562383820" duration="3029000" />
+      <workItem from="1655609026027" duration="2054000" />
+      <workItem from="1655625419049" duration="969000" />
+      <workItem from="1655628267115" duration="1640000" />
+      <workItem from="1655635884121" duration="879000" />
+      <workItem from="1655707587586" duration="2377000" />
+      <workItem from="1655710756419" duration="133000" />
+      <workItem from="1655956092442" duration="788000" />
+      <workItem from="1656417629933" duration="78000" />
+      <workItem from="1656418331684" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
